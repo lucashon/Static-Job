@@ -190,9 +190,13 @@ width: 72px;
     button{
         width: 100%;
         height: 24px;
+        position: relative;
+        bottom: 2rem;
+        
     }
     .content1{
         height: 300rem;
+        
     }
     .titulos{
       display: flex;
